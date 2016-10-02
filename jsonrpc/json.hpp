@@ -6,7 +6,7 @@
 namespace jsonrpc
 {
 
-	using json = nlohmann::json;
+	using namespace nlohmann;
 
 }
 
