@@ -1,7 +1,7 @@
 #ifndef JSONRPC_JSON_HPP
 #define JSONRPC_JSON_HPP
 
-#include <jsonrpc/detail/json.hpp>
+#include <jsonrpc/thirdparty/nlohmann/json/json.hpp>
 
 namespace jsonrpc
 {
